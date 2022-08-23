@@ -23,10 +23,10 @@ Users should be able to:
 
 ### Links
 
-- [👉 Click here to see Live preview👈]()
+- [👉 Click here to see Live preview👈](https://codepapa360.github.io/Huddle-landing-page-with-curved-sections/)
 <br>
 
-- [👉 Frontendmentor solution👈]()
+- [👉 Frontendmentor solution👈](https://www.frontendmentor.io/solutions/responsive-huddle-landing-page-with-curved-sections-92qqlJHBG7)
 
 ## My process
 
